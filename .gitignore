@@ -1,0 +1,7 @@
+# ambientes virtuales y variables
+venv
+env_variables
+.env
+
+# codigos_no_usados
+otrosCodigos.ipynb
